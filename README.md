@@ -57,8 +57,8 @@ Real-world references used throughout this handbook: **MOSIP** (open-source NBIS
 | 6 | Overall NBIS Architecture | ✅ Complete |
 | 7 | Microservices | ✅ Complete |
 | 8 | API Gateway | ✅ Complete |
-| 9 | Authentication | ⬜ Pending |
-| 10 | Authorization (RBAC) | ⬜ Pending |
+| 9 | Authentication | ✅ Complete  |
+| 10 | Authorization (RBAC) | ✅ Complete  |
 | 11 | Event-Driven Architecture | ⬜ Pending |
 | 12 | Message Queues | ⬜ Pending |
 | 13 | Service Discovery | ⬜ Pending |
