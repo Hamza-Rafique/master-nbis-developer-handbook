@@ -62,8 +62,8 @@ Real-world references used throughout this handbook: **MOSIP** (open-source NBIS
 | 11 | Event-Driven Architecture |✅ Complete  |
 | 12 | Message Queues | ✅ Complete |
 | 13 | Service Discovery |  ✅ Complete |
-| 14 | Caching | ⬜ Pending |
-| 15 | High Availability | ⬜ Pending |
+| 14 | Caching | ✅ Complete|
+| 15 | High Availability | ✅ Complete |
 | 16 | Disaster Recovery | ⬜ Pending |
 
 ---
