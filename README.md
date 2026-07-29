@@ -78,7 +78,7 @@ Real-world references used throughout this handbook: **MOSIP** (open-source NBIS
 | 21 | Face Capture | ✅ Complete |
 | 22 | Iris Capture | ✅ Complete |
 | 23 | Signature Capture | ✅ Complete |
-| 24 | Quality Checks | ⬜ Pending |
+| 24 | Quality Checks |  ✅ Complete  |
 | 25 | Enrollment Validation | ⬜ Pending |
 | 26 | Duplicate Detection | ⬜ Pending |
 | 27 | Approval Workflow | ⬜ Pending |
