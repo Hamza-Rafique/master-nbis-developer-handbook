@@ -79,7 +79,7 @@ Real-world references used throughout this handbook: **MOSIP** (open-source NBIS
 | 22 | Iris Capture | ✅ Complete |
 | 23 | Signature Capture | ✅ Complete |
 | 24 | Quality Checks |  ✅ Complete  |
-| 25 | Enrollment Validation | ⬜ Pending |
+| 25 | Enrollment Validation |✅ Complete |
 | 26 | Duplicate Detection | ⬜ Pending |
 | 27 | Approval Workflow | ⬜ Pending |
 
