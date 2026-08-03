@@ -80,7 +80,7 @@ Real-world references used throughout this handbook: **MOSIP** (open-source NBIS
 | 23 | Signature Capture | ✅ Complete |
 | 24 | Quality Checks |  ✅ Complete  |
 | 25 | Enrollment Validation |✅ Complete |
-| 26 | Duplicate Detection | ⬜ Pending |
+| 26 | Duplicate Detection |✅ Complete |
 | 27 | Approval Workflow | ⬜ Pending |
 
 ---
